@@ -1,0 +1,56 @@
+body {
+	background-color: #778899
+
+}
+
+header h1 { 
+		background-color: #009933;
+		text-align: center;
+		font-size: 38px;
+		display: block;
+		font-family: Courier New;
+		}
+
+nav {
+	background-color: #009933;
+	width: 125px;
+	height: 400px;
+	display: block;
+	text-align: left;
+	font-size: 20px;
+}
+
+
+section article h1 { 
+		background-color: #009933;
+		width: 1200px;
+		display: inline-block;
+		text-align: center;
+		font-family: Courier New;
+	}
+
+ img {
+
+		width: 1200px;
+		height: 400px;
+		text-align: left;
+}
+
+section p {
+		width: 1200px;
+		text-align: center;
+		font-size: 18px;
+		font-family: Courier New;
+}
+
+}
+
+footer {
+		width: 400px;
+		background-color: black;
+		color: white;
+		display: block;
+		text-align: center;
+}
+
+	
